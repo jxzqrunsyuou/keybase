@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am jxzqrunsyou on github.
+  * I am jxzq (https://keybase.io/jxzq) on keybase.
+  * I have a public key ASC-KnlEmHb_O2wQHYr4BWuGeo4b8W2iML6K-2DfagRsbQo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120be2a79449876ff3b6c101d8af8056b867a8e1bf16da230be8afb60df6a046c6d0a",
+      "host": "keybase.io",
+      "kid": "0120be2a79449876ff3b6c101d8af8056b867a8e1bf16da230be8afb60df6a046c6d0a",
+      "uid": "2ab2517792179f4e036aaddf3b8a3619",
+      "username": "jxzq"
+    },
+    "merkle_root": {
+      "ctime": 1609728495,
+      "hash": "aa9a5039e49669d50007f9bfd8bcb24d99974459922ab3231232b6850234e0e3fd19274c8e2f193805e9e4402053e7f4d525545ed969980e8d10d79ae4dd6e51",
+      "hash_meta": "297e573e3b2f9e444e675e2ee816c2e5ac306b1f2bcd272f9f9cbab13a7b2282",
+      "seqno": 18578377
+    },
+    "service": {
+      "entropy": "vZxud+PEor4TQx52kCUsFkOt",
+      "name": "github",
+      "username": "jxzqrunsyou"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1609728516,
+  "expire_in": 504576000,
+  "prev": "8a522050283efd3265315dae6ece0c9affdfbad6a22e155ee37e0b53ae8e1407",
+  "seqno": 6,
+  "tag": "signature"
+}
+```
+
+with the key [ASC-KnlEmHb_O2wQHYr4BWuGeo4b8W2iML6K-2DfagRsbQo](https://keybase.io/jxzq), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgvip5RJh2/ztsEB2K+AVrhnqOG/FtojC+ivtg32oEbG0Kp3BheWxvYWTESpcCBsQgilIgUCg+/TJlMV2ubs4Mmv/futaiLhVe434LU66OFAfEIFq0CQnfcbCVhFDrc8/PBlt/7u5FMurL1tNBKR6uqXlDAgHCo3NpZ8RAipfxLZpXQEs2XPqIsMSRa5k27MSxJlE5ceYyBSTWGbaZqgBPFC5JTGZZ9JmGiP9tN7mzgebz04efaJIYOxUFAahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIAclQ9vZtOdp6pTPWzgYhwYN5tegyM9U378GxG03NqSCo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/jxzq
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id jxzq
+```
